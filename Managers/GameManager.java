@@ -7,7 +7,7 @@ import GameObjects.DrawObject;
 import GameObjects.UpdateObject;
 import Helpers.Multimap;
 import Helpers.Scene;
-import zGame2.StartingObjects;
+import DotGame.StartingObjects;
 
 import java.awt.*;
 
